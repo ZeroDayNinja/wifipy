@@ -1,11 +1,11 @@
 
 
 ###########################################################################
-# AUTHOR   : Arjuna238                                                    #
+# AUTHOR   : ZeroDayNinja                                                    #
 #  TIP     : FUCK YOU HATERS
 ###########################################################################
 
-# Coader/Arjuna238
+# Coader/ZeroDayNinja
 #!/usr/bin/env python3
 #Happy Hacking ( Privacy & Security No Such Things Exists in digital World, We Can Hack Everything )
 import os
@@ -50,7 +50,7 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
 
           
           
-Author  : Arjuna238
+Author  : ZeroDayNinja
 -------------------------------------------------------------------------  
 (1)Start monitor mode       
 (2)Stop monitor mode
@@ -216,7 +216,7 @@ Author  : Arjuna238
         cmd = os.system("clear")
         print("""
 Hi.
-My Name Arjuna238 , A Ethical Hacker,Bug Bounty Hunter,Currently Working as Cyber Security Researcher.
+My Name ZeroDayNinja , A Ethical Hacker,Bug Bounty Hunter,Currently Working as Cyber Security Researcher.
 you can find on YOUTUBE !
 
 
@@ -408,5 +408,5 @@ may reach to Hundreds of TeRa Bits so Be patiant
 intro()
 # Happy Hacking ( Privacy & Security No Such Things Exists in digital World, We Can Hack Everything )
 # indian black hat team
-# arjuna238 black hat
+# ZeroDayNinja black hat
 # don't edit my code 
