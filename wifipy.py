@@ -1,7 +1,8 @@
 
 
 ###########################################################################
-# AUTHOR   : ZeroDayNinja                                                    #
+# AUTHOR   : ZeroDayNinja    
+# !!Arjuna238 is my previous GitHub profile # name !!                                             #
 #  TIP     : FUCK YOU HATERS
 ###########################################################################
 
